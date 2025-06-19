@@ -55,6 +55,7 @@ React(vite-latest) + TailwindCss
 
 # Issue
 Didn't Provide Images, Hence I Used Screenshots with low Quality and Random Size which made my Ice Cream Icons at the bottom not
-up to the mark, tried my best to make better but didn't achive perfect Icon. Remaining all the React Functional-Components, Hooks and Routing established perfectliy
+up to the mark, tried my best to make better but didn't achive perfect Icon. Remaining all the React Functional-Components, Hooks and Routing established perfectliy.
 
-
+# Deployment
+Deployed the app on Vercel.
