@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 
 const Navbar = ({ theme }) => {
   const [isOpen, setIsOpen] = useState(false);
-
+  {/* color themes*/}
   const themeBackgrounds = {
     strawberry: 'bg-gradient-to-r from-pink-500 to-pink-400',
     blueberry: 'bg-gradient-to-r from-blue-500 to-blue-400',
