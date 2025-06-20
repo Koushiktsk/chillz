@@ -14,7 +14,7 @@ Responsive hamburger menu on smaller devices.
 "Order Your Ice Cream" button styled with hover effects.
 
 ✅ Flavor Selector Icons:
-4 clickable icons (Strawberry, Blueberry, Vanilla, Pistachio) at the bottom of each page to switch between themes easily.
+4 clickable icons (Strawberry, Blueberry, Chocolate, Evergreen) at the bottom of each page to switch between themes easily.
 Each icon housed in a transparent, rounded square with a scaling hover effect.
 
 ✅ Animations:
